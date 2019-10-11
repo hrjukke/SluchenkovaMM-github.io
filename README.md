@@ -14,6 +14,13 @@
 
 ## Лабораторная 2
 
+![](https://github.com/hrjukke/hrjukke.github.io/blob/master/%D0%A8%D0%B5%D1%81%D1%82%D1%8C%20%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%D0%BE%D0%B2%20_Ramus%20-%20lr1.rsf_files/model.png)
+
+![](https://raw.githubusercontent.com/hrjukke/hrjukke.github.io/master/%D0%A8%D0%B5%D1%81%D1%82%D1%8C%20%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%D0%BE%D0%B2%20_Ramus%20-%20lr1.rsf_files/model(1).png)
+
+![](https://raw.githubusercontent.com/hrjukke/hrjukke.github.io/master/%D0%A8%D0%B5%D1%81%D1%82%D1%8C%20%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%D0%BE%D0%B2%20_Ramus%20-%20lr1.rsf_files/model(2).png)
+
+
 ## Лабораторная 3
 
 ## Лабораторная 4
