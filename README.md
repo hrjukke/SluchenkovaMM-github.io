@@ -4,7 +4,7 @@
 
 ## Лабораторная 1
 
-Игра на рояле
+Заучивание произведения на рояле
 
 ![](http://www.plantuml.com/plantuml/png/JOz1IWCn58RtESMZAmKFKSSBk7CTPe8DJIVoCiM527K4DnLqwKQyGb2BmTBs2l-xaIzq8o6Bzxtl_qccQR0yB1V1fBdlRopR1RN1faHtfh7j_9hZikykOeXCLpC_E7FE76-Fe0bgc2Pov_W_kJV7YWa-K92nGv476ITa4rrgiUAChJpBawnra1NswltW4njywrKV6y8RldILwGJlsCk8dQmhFY3BIiU2GZKgBxNhZF2AWvwjBdvL6UMnfa_rDJFVEMezjy6PgUix_UuV)
 
