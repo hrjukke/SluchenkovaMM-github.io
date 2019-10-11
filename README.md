@@ -1,6 +1,6 @@
 # SluchenkovaMM-github.io
 (hrjukke.github.io)
-# студент группы [ИДБ-16-07](https://github.com/stankin/design-2018/wiki/list-idb-15-xx) Слученкова М. М.
+# Студент группы [ИДБ-16-07](https://github.com/stankin/design-2018/wiki/list-idb-15-xx) Слученкова М. М.
 
 ## Лабораторная 1
 
