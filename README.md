@@ -1,3 +1,5 @@
 # SluchenkovaMM-github.io
-Лабораторная работа 1 (hrjukke.github.io)
-Лабораторня работа 2
+<br>
+# Лабораторная работа 1 
+<br>
+# Лабораторня работа 2 (hrjukke.github.io)
