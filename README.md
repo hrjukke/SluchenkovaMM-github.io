@@ -43,6 +43,10 @@
 <br>
 ![](https://github.com/hrjukke/hrjukke.github.io/blob/master/index3_files/model(2).png)
 
+<em> Диаграмма представлений </em>
+<br>
+![](http://www.plantuml.com/plantuml/png/LSv1JiCm40NGTUSKLlUzG1Ueb4EmdYOMH8tjQ3868OG4sO34PIeGo08ALnZVY742Y6OHI_y_VNlLCn97rqA_RNo7XCvWnO7CDSpMM6tFA4HVduHMezFpXYtCZed2vPIiMoKA0zMM_aStW963ZsvZ2M1QdCkN9Dd9NbA-oyFSO6zYh_scN85qfU9DtbKygNYGD0hiEh2U6oxrNZxpa1_7mba7-fK5ipWgRcaKxEHLadpe-P87q5JBOfSct-liy5jKt5mWssb6VsRnDvBaET_-kDeUIXL5JWzVMLz7rtu3)
+
 ## Лабораторная 4
 
 ## Лабораторная 5
