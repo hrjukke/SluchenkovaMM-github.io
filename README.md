@@ -35,6 +35,16 @@
 
 ## Лабораторная 3
 
+ <em> Диаграмма IDEF0 </em>
+<br>
+![]
+(https://github.com/hrjukke/hrjukke.github.io/blob/master/index3_files/model(2).png)
+
+<em> Диаграмма DFD </em>
+<br>
+![] 
+(https://github.com/hrjukke/hrjukke.github.io/blob/master/index3_files/model(1).png)
+
 ## Лабораторная 4
 
 ## Лабораторная 5
