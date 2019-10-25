@@ -37,11 +37,11 @@
 
 <em> Диаграмма IDEF0 </em>
 <br>
-![](https://github.com/hrjukke/hrjukke.github.io/blob/master/index3_files/model(2).png)
+![](https://github.com/hrjukke/hrjukke.github.io/blob/master/index3_files/model(1).png)
 
 <em> Диаграмма DFD </em>
 <br>
-![](https://github.com/hrjukke/hrjukke.github.io/blob/master/index3_files/model(1).png)
+![](https://github.com/hrjukke/hrjukke.github.io/blob/master/index3_files/model(2).png)
 
 ## Лабораторная 4
 
