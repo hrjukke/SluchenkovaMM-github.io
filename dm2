@@ -1,0 +1,37 @@
+@startuml
+skinparam class {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+class Entity as "Модули"
+
+class Forms as "Экранные формы"
+
+class F7 as "Форма выполнения действий \n в соответствии с решением \n (форма выполнения заявки)" 
+class F8 as "Форма записи \n найденного решения \n в базу знаний" 
+class F9 as "Форма проверки \n правильности \n исправления проблемы" 
+class F10 as "Форма отправки \n клиенту инструкций \n и информации об \n исправлении проблемы" 
+class F11 as "Форма изменения \n статуса заявки" 
+class F12 as "Форма записи \n данных из системы \n servicedesk в БД" 
+class F13 as "Форма использования \n СУБД для анализа" 
+class F14 as "Форма подведения \n итогов анализа"
+
+
+
+Entity <|-- Forms 
+
+Forms <|-- F7 
+Forms <|-- F8 
+Forms <|-- F9 
+Forms <|-- F10 
+Forms <|-- F11 
+Forms <|-- F12 
+Forms <|-- F13 
+Forms <|-- F14
+
+
+hide members
+hide circle
+hide methods
+@enduml

@@ -1,0 +1,39 @@
+1-6: http://www.plantuml.com/plantuml/png/TLDDRzD043rtVyKeznxwqPuub2Bu2voDlI9Mx1ZjkY04I10-48f4XSIH8rSaryIgws3dByp-8vvt4oUMcqfDzDxilFTcTdEXKq-bLt4az2ISll2K5vCVULhJ6t5mwVcJvogvcWQFaYXHz7GSfb8SF5GgUUMOomX7S31HWLIxr3lXL1vFqp1zJPwc4V_YXXVc8o-v78br_KcYOktAVxWoxpdZccipvuBC9sv0_3FpxUaZT_Itgt16V8kE5PVc0vV4Yqsx-KnSyYs1HidCk6XrI4lrClHb8FM4E2V-mJz7UwNHYnvyBf4xn_yTDCcYlr3zoWLgbUCRlh7PRz0z0-c2cMlE0Sgz7bsZ-OQ4DLIlYIk2J8R-0Y8WixR0Tvt8yI1evspcIBrhdU70rlvaO9zZqok4MCAZ2r2whU8sCFxCSVTDSphSc8s1E6Jr5W1OFbg_jmFQ1NAzkLVGNu3XrX2lm60N25AWKdGUPuF8RTpIRjvDRfsAmIZk5NJ1KQWwqVE1gBLlBznk4Qfxai9WTnV8YR_r6t_mzl1m_Pw5SD-EEkgXunuwwQ7J7ZhheVFMQXm6ac8PFvDAE-27oe_aff2Eaq2B2paDy9F-3m00
+
+@startuml
+skinparam class {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+class Entity as "Модули"
+
+class Forms as "Экранные формы"
+
+class F1 as "Форма записи данных из системы servicedesk в БД"
+class F1 as "Форма смысловой и логической обработка заявки"
+class F1 as "Форма обращения к базе знаний"
+class F2 as "Форма работы с заявками"
+class F3 as "Форма выполнения и закрытия заявки"
+class F4 as "Форма сбора недостающей информации о проблеме"
+class F5 as "Форма поиска ранее выполненных заявок"
+class F6 as "Форма просмотра информации по заявке"
+
+
+
+Entity <|-- Forms 
+
+Forms <|-- F1
+Forms <|-- F2
+Forms <|-- F3
+Forms <|-- F4
+Forms <|-- F5
+Forms <|-- F6
+
+
+
+hide members
+hide circle
+hide methods
+@enduml
+
