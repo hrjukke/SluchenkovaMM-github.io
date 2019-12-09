@@ -1,0 +1,33 @@
+Диаграмма ролей: http://www.plantuml.com/plantuml/png/TPAxJW9158PhvYacz1HSw2mGOqb2Pop7tOcxOIzaPeanQe9ej928iJAnyF84n811XFKLphoHPpmBiebc2lAVx-C_ayasT29KqWi3fZj-r1LAXDm9XDRyX1MQmkaSghWNkJjn42k-v_c9P8LjfU8ZcZG3L52CbIlLvkYCKSjkbFZ9CHUQ5-4PKlY4MP5bh2tZRY29FPfRc5X6g2KSJqI-3ZNX1rYQSpCmVNC12vXY6fYRTL6hJDQBwIERM1FUOCnXXk8bf3XUmDXSOKvXYIU53mvV-3F1CqNy3lFVvUsixiaYMsH6t5uS_pWpexLL8UiUb-66_wmgMQ_sQdZfuTzMZQmx78yjDWDKvcjS_y7xkEFQSZE49N6MlU_MQQcqUi_SRECX6ICXaylvMCd7QZxMyh7EDdffJndxFT-LF9JXWLIQWkCh9v0ha7Yngrb3HYv-SDy0
+@startuml
+skinparam class {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+class Entity as "Роли"
+
+class People as "Люди"
+class Machanisms as "Инструменты"
+
+class M1 as "Средства информационной поддержки"
+class P1 as "Первая линия"
+class P2 as "Вторая линия"
+class P3 as "Третья линия"
+class P4 as "Аналитик"
+class P5 as "Yачальник"
+
+Entity <|-- People 
+Entity <|-- Machanisms 
+
+People <|-- P1
+People <|-- P2
+People <|-- P3
+People <|-- P4
+People <|-- P5
+Machanisms <|-- M1 
+
+hide members
+hide circle
+hide methods
+@enduml
